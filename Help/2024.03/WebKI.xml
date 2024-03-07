@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="ActiveFiles property" Url="html/P-Walter.IO.AppDataDirectory.ActiveFiles.htm" />
+  <HelpKINode Title="AddSecureDiskMonitor(Of T) method" Url="html/M-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.AddSecureDiskMonitor--1.htm" />
+  <HelpKINode Title="AddSecureDiskMonitor&lt;T&gt; method" Url="html/M-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.AddSecureDiskMonitor--1.htm" />
+  <HelpKINode Title="Age method" Url="html/M-Walter.IO.FileInfoExtensions.Age.htm" />
+  <HelpKINode Title="AppData property" Url="html/P-Walter.IO.Current.AppData.htm" />
+  <HelpKINode Title="AppData property" Url="html/P-Walter.IO.WorkingDirectory.AppData.htm" />
+  <HelpKINode Title="AppDataDirectory class" Url="html/AllMembers.T-Walter.IO.AppDataDirectory.htm" />
+  <HelpKINode Title="AppDataDirectory class" Url="html/T-Walter.IO.AppDataDirectory.htm" />
+  <HelpKINode Title="AppDataDirectory class">
+    <HelpKINode Title="about AppDataDirectory class" Url="html/T-Walter.IO.AppDataDirectory.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Walter.IO.AppDataDirectory.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Walter.IO.AppDataDirectory.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Walter.IO.AppDataDirectory.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Walter.IO.AppDataDirectory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppDataDirectory.ActiveFiles property" Url="html/P-Walter.IO.AppDataDirectory.ActiveFiles.htm" />
+  <HelpKINode Title="AppDataDirectory.AppDataDirectory constructor" Url="html/M-Walter.IO.AppDataDirectory.-ctor.htm" />
+  <HelpKINode Title="AppDataDirectory.Delete method" Url="html/M-Walter.IO.AppDataDirectory.Delete.htm" />
+  <HelpKINode Title="AppDataDirectory.DirectoryInfo method" Url="html/M-Walter.IO.AppDataDirectory.DirectoryInfo.htm" />
+  <HelpKINode Title="AppDataDirectory.Exists method" Url="html/M-Walter.IO.AppDataDirectory.Exists.htm" />
+  <HelpKINode Title="AppDataDirectory.File method" Url="html/M-Walter.IO.AppDataDirectory.File.htm" />
+  <HelpKINode Title="AppDataDirectory.Path property" Url="html/P-Walter.IO.AppDataDirectory.Path.htm" />
+  <HelpKINode Title="AppDataDirectory.Swap method" Url="html/M-Walter.IO.AppDataDirectory.Swap.htm" />
+  <HelpKINode Title="ApplicationRoot property" Url="html/P-Walter.IO.WorkingDirectory.ApplicationRoot.htm" />
+  <HelpKINode Title="Arguments property" Url="html/P-Walter.IO.SimpleProcessStartInfo.Arguments.htm" />
+  <HelpKINode Title="AsIDiskChanges method" Url="html/M-Walter.IO.DiskViolationsExtensions.AsIDiskChanges.htm" />
+  <HelpKINode Title="AvailableThreads property" Url="html/P-Walter.IO.Current.AvailableThreads.htm" />
+  <HelpKINode Title="ContainsMoreThanOrEqualTo method" Url="html/M-Walter.IO.FileInfoExtensions.ContainsMoreThanOrEqualTo.htm" />
+  <HelpKINode Title="Copy enumeration member" Url="html/T-Walter.IO.SwapDirectoryOptions.htm" />
+  <HelpKINode Title="Copy field" Url="html/F-Walter.IO.SwapDirectoryOptions.Copy.htm" />
+  <HelpKINode Title="CountPaddingBytes method" Url="html/M-Walter.IO.FileInfoExtensions.CountPaddingBytes.htm" />
+  <HelpKINode Title="CountPaddingBytesChunked method" Url="html/M-Walter.IO.FileInfoExtensions.CountPaddingBytesChunked.htm" />
+  <HelpKINode Title="Current class" Url="html/AllMembers.T-Walter.IO.Current.htm" />
+  <HelpKINode Title="Current class" Url="html/T-Walter.IO.Current.htm" />
+  <HelpKINode Title="Current class">
+    <HelpKINode Title="about Current class" Url="html/T-Walter.IO.Current.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Walter.IO.Current.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Walter.IO.Current.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Walter.IO.Current.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Current.AppData property" Url="html/P-Walter.IO.Current.AppData.htm" />
+  <HelpKINode Title="Current.AvailableThreads property" Url="html/P-Walter.IO.Current.AvailableThreads.htm" />
+  <HelpKINode Title="Delete method" Url="html/M-Walter.IO.AppDataDirectory.Delete.htm" />
+  <HelpKINode Title="DirectoryInfo method" Url="html/M-Walter.IO.AppDataDirectory.DirectoryInfo.htm" />
+  <HelpKINode Title="DiskViolationsExtensions class" Url="html/AllMembers.T-Walter.IO.DiskViolationsExtensions.htm" />
+  <HelpKINode Title="DiskViolationsExtensions class" Url="html/T-Walter.IO.DiskViolationsExtensions.htm" />
+  <HelpKINode Title="DiskViolationsExtensions class">
+    <HelpKINode Title="about DiskViolationsExtensions class" Url="html/T-Walter.IO.DiskViolationsExtensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Walter.IO.DiskViolationsExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Walter.IO.DiskViolationsExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiskViolationsExtensions.AsIDiskChanges method" Url="html/M-Walter.IO.DiskViolationsExtensions.AsIDiskChanges.htm" />
+  <HelpKINode Title="DiskViolationsExtensions.TryParseAsIDiskChanges method" Url="html/M-Walter.IO.DiskViolationsExtensions.TryParseAsIDiskChanges.htm" />
+  <HelpKINode Title="Exists method" Url="html/M-Walter.IO.AppDataDirectory.Exists.htm" />
+  <HelpKINode Title="File method" Url="html/M-Walter.IO.AppDataDirectory.File.htm" />
+  <HelpKINode Title="FileInfoExtensions class" Url="html/AllMembers.T-Walter.IO.FileInfoExtensions.htm" />
+  <HelpKINode Title="FileInfoExtensions class" Url="html/T-Walter.IO.FileInfoExtensions.htm" />
+  <HelpKINode Title="FileInfoExtensions class">
+    <HelpKINode Title="about FileInfoExtensions class" Url="html/T-Walter.IO.FileInfoExtensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Walter.IO.FileInfoExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Walter.IO.FileInfoExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileInfoExtensions.Age method" Url="html/M-Walter.IO.FileInfoExtensions.Age.htm" />
+  <HelpKINode Title="FileInfoExtensions.ContainsMoreThanOrEqualTo method" Url="html/M-Walter.IO.FileInfoExtensions.ContainsMoreThanOrEqualTo.htm" />
+  <HelpKINode Title="FileInfoExtensions.CountPaddingBytes method" Url="html/M-Walter.IO.FileInfoExtensions.CountPaddingBytes.htm" />
+  <HelpKINode Title="FileInfoExtensions.CountPaddingBytesChunked method" Url="html/M-Walter.IO.FileInfoExtensions.CountPaddingBytesChunked.htm" />
+  <HelpKINode Title="FileInfoExtensions.FileIsEqualToIgnoringPadding method" Url="html/M-Walter.IO.FileInfoExtensions.FileIsEqualToIgnoringPadding.htm" />
+  <HelpKINode Title="FileInfoExtensions.ReadBinary method" Url="html/M-Walter.IO.FileInfoExtensions.ReadBinary.htm" />
+  <HelpKINode Title="FileInfoExtensions.TryRead method" Url="html/M-Walter.IO.FileInfoExtensions.TryRead.htm" />
+  <HelpKINode Title="FileIsEqualToIgnoringPadding method" Url="html/M-Walter.IO.FileInfoExtensions.FileIsEqualToIgnoringPadding.htm" />
+  <HelpKINode Title="FileName property" Url="html/P-Walter.IO.SimpleProcessStartInfo.FileName.htm" />
+  <HelpKINode Title="GetAppDataDirectory method" Url="html/M-Walter.IO.WorkingDirectory.GetAppDataDirectory.htm" />
+  <HelpKINode Title="GetDirectory method" Url="html/M-Walter.IO.WorkingDirectory.GetDirectory.htm" />
+  <HelpKINode Title="IOBuilderExtensions class" Url="html/AllMembers.T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+  <HelpKINode Title="IOBuilderExtensions class" Url="html/T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+  <HelpKINode Title="IOBuilderExtensions class">
+    <HelpKINode Title="about IOBuilderExtensions class" Url="html/T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOBuilderExtensions.AddSecureDiskMonitor(Of T) method" Url="html/M-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.AddSecureDiskMonitor--1.htm" />
+  <HelpKINode Title="IOBuilderExtensions.AddSecureDiskMonitor&lt;T&gt; method" Url="html/M-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.AddSecureDiskMonitor--1.htm" />
+  <HelpKINode Title="Microsoft.Extensions.DependencyInjection namespace" Url="html/N-Microsoft.Extensions.DependencyInjection.htm" />
+  <HelpKINode Title="Microsoft.Extensions.DependencyInjection.IOBuilderExtensions class" Url="html/AllMembers.T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+  <HelpKINode Title="Microsoft.Extensions.DependencyInjection.IOBuilderExtensions class" Url="html/T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+  <HelpKINode Title="Move enumeration member" Url="html/T-Walter.IO.SwapDirectoryOptions.htm" />
+  <HelpKINode Title="Move field" Url="html/F-Walter.IO.SwapDirectoryOptions.Move.htm" />
+  <HelpKINode Title="NoAction enumeration member" Url="html/T-Walter.IO.SwapDirectoryOptions.htm" />
+  <HelpKINode Title="NoAction field" Url="html/F-Walter.IO.SwapDirectoryOptions.NoAction.htm" />
+  <HelpKINode Title="Path property" Url="html/P-Walter.IO.AppDataDirectory.Path.htm" />
+  <HelpKINode Title="ReadBinary method" Url="html/M-Walter.IO.FileInfoExtensions.ReadBinary.htm" />
+  <HelpKINode Title="SetAppDataAssCurrentDirectory method" Url="html/M-Walter.IO.WorkingDirectory.SetAppDataAssCurrentDirectory.htm" />
+  <HelpKINode Title="SetApplicationRootAsCurrentDirectory method" Url="html/M-Walter.IO.WorkingDirectory.SetApplicationRootAsCurrentDirectory.htm" />
+  <HelpKINode Title="SetAssCurrentDirectory method" Url="html/M-Walter.IO.WorkingDirectory.SetAssCurrentDirectory.htm" />
+  <HelpKINode Title="SimpleProcessStartInfo class" Url="html/AllMembers.T-Walter.IO.SimpleProcessStartInfo.htm" />
+  <HelpKINode Title="SimpleProcessStartInfo class" Url="html/T-Walter.IO.SimpleProcessStartInfo.htm" />
+  <HelpKINode Title="SimpleProcessStartInfo class">
+    <HelpKINode Title="about SimpleProcessStartInfo class" Url="html/T-Walter.IO.SimpleProcessStartInfo.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Walter.IO.SimpleProcessStartInfo.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Walter.IO.SimpleProcessStartInfo.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Walter.IO.SimpleProcessStartInfo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SimpleProcessStartInfo.Arguments property" Url="html/P-Walter.IO.SimpleProcessStartInfo.Arguments.htm" />
+  <HelpKINode Title="SimpleProcessStartInfo.FileName property" Url="html/P-Walter.IO.SimpleProcessStartInfo.FileName.htm" />
+  <HelpKINode Title="SimpleProcessStartInfo.WorkingDirectory property" Url="html/P-Walter.IO.SimpleProcessStartInfo.WorkingDirectory.htm" />
+  <HelpKINode Title="Swap method" Url="html/M-Walter.IO.AppDataDirectory.Swap.htm" />
+  <HelpKINode Title="SwapDirectoryOptions enumeration" Url="html/T-Walter.IO.SwapDirectoryOptions.htm" />
+  <HelpKINode Title="SwapDirectoryOptions.Copy field" Url="html/F-Walter.IO.SwapDirectoryOptions.Copy.htm" />
+  <HelpKINode Title="SwapDirectoryOptions.Move field" Url="html/F-Walter.IO.SwapDirectoryOptions.Move.htm" />
+  <HelpKINode Title="SwapDirectoryOptions.NoAction field" Url="html/F-Walter.IO.SwapDirectoryOptions.NoAction.htm" />
+  <HelpKINode Title="TryParseAsIDiskChanges method" Url="html/M-Walter.IO.DiskViolationsExtensions.TryParseAsIDiskChanges.htm" />
+  <HelpKINode Title="TryRead method" Url="html/M-Walter.IO.FileInfoExtensions.TryRead.htm" />
+  <HelpKINode Title="Walter.IO namespace" Url="html/N-Walter.IO.htm" />
+  <HelpKINode Title="Walter.IO.AppDataDirectory class" Url="html/AllMembers.T-Walter.IO.AppDataDirectory.htm" />
+  <HelpKINode Title="Walter.IO.AppDataDirectory class" Url="html/T-Walter.IO.AppDataDirectory.htm" />
+  <HelpKINode Title="Walter.IO.Current class" Url="html/AllMembers.T-Walter.IO.Current.htm" />
+  <HelpKINode Title="Walter.IO.Current class" Url="html/T-Walter.IO.Current.htm" />
+  <HelpKINode Title="Walter.IO.DiskViolationsExtensions class" Url="html/AllMembers.T-Walter.IO.DiskViolationsExtensions.htm" />
+  <HelpKINode Title="Walter.IO.DiskViolationsExtensions class" Url="html/T-Walter.IO.DiskViolationsExtensions.htm" />
+  <HelpKINode Title="Walter.IO.FileInfoExtensions class" Url="html/AllMembers.T-Walter.IO.FileInfoExtensions.htm" />
+  <HelpKINode Title="Walter.IO.FileInfoExtensions class" Url="html/T-Walter.IO.FileInfoExtensions.htm" />
+  <HelpKINode Title="Walter.IO.SimpleProcessStartInfo class" Url="html/AllMembers.T-Walter.IO.SimpleProcessStartInfo.htm" />
+  <HelpKINode Title="Walter.IO.SimpleProcessStartInfo class" Url="html/T-Walter.IO.SimpleProcessStartInfo.htm" />
+  <HelpKINode Title="Walter.IO.SwapDirectoryOptions enumeration" Url="html/T-Walter.IO.SwapDirectoryOptions.htm" />
+  <HelpKINode Title="Walter.IO.WorkingDirectory class" Url="html/AllMembers.T-Walter.IO.WorkingDirectory.htm" />
+  <HelpKINode Title="Walter.IO.WorkingDirectory class" Url="html/T-Walter.IO.WorkingDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory class" Url="html/AllMembers.T-Walter.IO.WorkingDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory class" Url="html/T-Walter.IO.WorkingDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory class">
+    <HelpKINode Title="about WorkingDirectory class" Url="html/T-Walter.IO.WorkingDirectory.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Walter.IO.WorkingDirectory.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-Walter.IO.WorkingDirectory.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Walter.IO.WorkingDirectory.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Walter.IO.WorkingDirectory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WorkingDirectory property" Url="html/P-Walter.IO.SimpleProcessStartInfo.WorkingDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory.AppData property" Url="html/P-Walter.IO.WorkingDirectory.AppData.htm" />
+  <HelpKINode Title="WorkingDirectory.ApplicationRoot property" Url="html/P-Walter.IO.WorkingDirectory.ApplicationRoot.htm" />
+  <HelpKINode Title="WorkingDirectory.GetAppDataDirectory method" Url="html/M-Walter.IO.WorkingDirectory.GetAppDataDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory.GetDirectory method" Url="html/M-Walter.IO.WorkingDirectory.GetDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory.SetAppDataAssCurrentDirectory method" Url="html/M-Walter.IO.WorkingDirectory.SetAppDataAssCurrentDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory.SetApplicationRootAsCurrentDirectory method" Url="html/M-Walter.IO.WorkingDirectory.SetApplicationRootAsCurrentDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory.SetAssCurrentDirectory method" Url="html/M-Walter.IO.WorkingDirectory.SetAssCurrentDirectory.htm" />
+  <HelpKINode Title="WorkingDirectory.WorkingDirectory constructor" Url="html/Overload-Walter.IO.WorkingDirectory.-ctor.htm" />
+</HelpKI>

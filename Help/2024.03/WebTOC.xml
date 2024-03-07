@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="8cad1053-3782-4d56-9163-fcdb70445b03" Title="Microsoft.Extensions.DependencyInjection Namespace" Url="html/N-Microsoft.Extensions.DependencyInjection.htm">
+    <HelpTOCNode Id="b8a0a8aa-7bff-44f8-8346-2de9a4c51b96" Title="IOBuilderExtensions Class" Url="html/T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm">
+      <HelpTOCNode Title="IOBuilderExtensions Members" Url="html/AllMembers.T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm" />
+      <HelpTOCNode Id="801851e4-761e-488d-af74-ed0912f0ff47" Title="IOBuilderExtensions Methods" Url="html/Methods.T-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.htm">
+        <HelpTOCNode Title="AddSecureDiskMonitor(T) Method " Url="html/M-Microsoft.Extensions.DependencyInjection.IOBuilderExtensions.AddSecureDiskMonitor--1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="8b2c30d6-9b37-4183-8ade-42e6c9d84f38" Title="Walter.IO Namespace" Url="html/N-Walter.IO.htm">
+    <HelpTOCNode Id="c95bbee0-e587-4c4a-a115-b92a46187933" Title="AppDataDirectory Class" Url="html/T-Walter.IO.AppDataDirectory.htm">
+      <HelpTOCNode Title="AppDataDirectory Members" Url="html/AllMembers.T-Walter.IO.AppDataDirectory.htm" />
+      <HelpTOCNode Title="AppDataDirectory Constructor " Url="html/M-Walter.IO.AppDataDirectory.-ctor.htm" />
+      <HelpTOCNode Id="3e185ee6-60eb-4bfc-8a2c-fad44e4f7079" Title="AppDataDirectory Methods" Url="html/Methods.T-Walter.IO.AppDataDirectory.htm">
+        <HelpTOCNode Title="Delete Method " Url="html/M-Walter.IO.AppDataDirectory.Delete.htm" />
+        <HelpTOCNode Title="DirectoryInfo Method " Url="html/M-Walter.IO.AppDataDirectory.DirectoryInfo.htm" />
+        <HelpTOCNode Title="Exists Method " Url="html/M-Walter.IO.AppDataDirectory.Exists.htm" />
+        <HelpTOCNode Title="File Method " Url="html/M-Walter.IO.AppDataDirectory.File.htm" />
+        <HelpTOCNode Title="Swap Method " Url="html/M-Walter.IO.AppDataDirectory.Swap.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cd3b689f-cb6b-4fa0-bc34-75fac406d923" Title="AppDataDirectory Properties" Url="html/Properties.T-Walter.IO.AppDataDirectory.htm">
+        <HelpTOCNode Title="ActiveFiles Property " Url="html/P-Walter.IO.AppDataDirectory.ActiveFiles.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/P-Walter.IO.AppDataDirectory.Path.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="be5a2b92-1b47-401a-b703-c685faeed92a" Title="Current Class" Url="html/T-Walter.IO.Current.htm">
+      <HelpTOCNode Title="Current Members" Url="html/AllMembers.T-Walter.IO.Current.htm" />
+      <HelpTOCNode Title="Current Methods" Url="html/Methods.T-Walter.IO.Current.htm" />
+      <HelpTOCNode Id="e27d81d4-816a-4182-9bff-bcc9f5a942b5" Title="Current Properties" Url="html/Properties.T-Walter.IO.Current.htm">
+        <HelpTOCNode Title="AppData Property " Url="html/P-Walter.IO.Current.AppData.htm" />
+        <HelpTOCNode Title="AvailableThreads Property " Url="html/P-Walter.IO.Current.AvailableThreads.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b7008b86-f652-4d88-bb15-d4387678f720" Title="DiskViolationsExtensions Class" Url="html/T-Walter.IO.DiskViolationsExtensions.htm">
+      <HelpTOCNode Title="DiskViolationsExtensions Members" Url="html/AllMembers.T-Walter.IO.DiskViolationsExtensions.htm" />
+      <HelpTOCNode Id="ff43fd13-1081-43bc-99e3-74cc2ad9e753" Title="DiskViolationsExtensions Methods" Url="html/Methods.T-Walter.IO.DiskViolationsExtensions.htm">
+        <HelpTOCNode Title="AsIDiskChanges Method " Url="html/M-Walter.IO.DiskViolationsExtensions.AsIDiskChanges.htm" />
+        <HelpTOCNode Title="TryParseAsIDiskChanges Method " Url="html/M-Walter.IO.DiskViolationsExtensions.TryParseAsIDiskChanges.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c63df5d-fad0-4185-a279-a56fcf2d4f70" Title="FileInfoExtensions Class" Url="html/T-Walter.IO.FileInfoExtensions.htm">
+      <HelpTOCNode Title="FileInfoExtensions Members" Url="html/AllMembers.T-Walter.IO.FileInfoExtensions.htm" />
+      <HelpTOCNode Id="bf63f393-2e94-48e5-b244-7cb6aac22fe8" Title="FileInfoExtensions Methods" Url="html/Methods.T-Walter.IO.FileInfoExtensions.htm">
+        <HelpTOCNode Title="Age Method " Url="html/M-Walter.IO.FileInfoExtensions.Age.htm" />
+        <HelpTOCNode Title="ContainsMoreThanOrEqualTo Method " Url="html/M-Walter.IO.FileInfoExtensions.ContainsMoreThanOrEqualTo.htm" />
+        <HelpTOCNode Title="CountPaddingBytes Method " Url="html/M-Walter.IO.FileInfoExtensions.CountPaddingBytes.htm" />
+        <HelpTOCNode Title="CountPaddingBytesChunked Method " Url="html/M-Walter.IO.FileInfoExtensions.CountPaddingBytesChunked.htm" />
+        <HelpTOCNode Title="FileIsEqualToIgnoringPadding Method " Url="html/M-Walter.IO.FileInfoExtensions.FileIsEqualToIgnoringPadding.htm" />
+        <HelpTOCNode Title="ReadBinary Method " Url="html/M-Walter.IO.FileInfoExtensions.ReadBinary.htm" />
+        <HelpTOCNode Title="TryRead Method " Url="html/M-Walter.IO.FileInfoExtensions.TryRead.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="53383f30-cb97-4ffe-983a-630795187239" Title="SimpleProcessStartInfo Class" Url="html/T-Walter.IO.SimpleProcessStartInfo.htm">
+      <HelpTOCNode Title="SimpleProcessStartInfo Members" Url="html/AllMembers.T-Walter.IO.SimpleProcessStartInfo.htm" />
+      <HelpTOCNode Title="SimpleProcessStartInfo Constructor (String, String, String)" Url="html/M-Walter.IO.SimpleProcessStartInfo.-ctor.htm" />
+      <HelpTOCNode Title="SimpleProcessStartInfo Methods" Url="html/Methods.T-Walter.IO.SimpleProcessStartInfo.htm" />
+      <HelpTOCNode Id="c3afa1e5-0ad6-492d-b417-bbf6c8b743e2" Title="SimpleProcessStartInfo Properties" Url="html/Properties.T-Walter.IO.SimpleProcessStartInfo.htm">
+        <HelpTOCNode Title="Arguments Property " Url="html/P-Walter.IO.SimpleProcessStartInfo.Arguments.htm" />
+        <HelpTOCNode Title="FileName Property " Url="html/P-Walter.IO.SimpleProcessStartInfo.FileName.htm" />
+        <HelpTOCNode Title="WorkingDirectory Property " Url="html/P-Walter.IO.SimpleProcessStartInfo.WorkingDirectory.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="SwapDirectoryOptions Enumeration" Url="html/T-Walter.IO.SwapDirectoryOptions.htm" />
+    <HelpTOCNode Id="d9549f00-0544-4768-bc79-66982ce18499" Title="WorkingDirectory Class" Url="html/T-Walter.IO.WorkingDirectory.htm">
+      <HelpTOCNode Title="WorkingDirectory Members" Url="html/AllMembers.T-Walter.IO.WorkingDirectory.htm" />
+      <HelpTOCNode Id="4827c90b-8d4c-46aa-9dcd-1e5d3cd6a447" Title="WorkingDirectory Constructor " Url="html/Overload-Walter.IO.WorkingDirectory.-ctor.htm">
+        <HelpTOCNode Title="WorkingDirectory Constructor (String)" Url="html/M-Walter.IO.WorkingDirectory.-ctor.htm" />
+        <HelpTOCNode Title="WorkingDirectory Constructor (String, String)" Url="html/M-Walter.IO.WorkingDirectory.-ctor_1.htm" />
+        <HelpTOCNode Title="WorkingDirectory Constructor (SpecialFolder, String[])" Url="html/M-Walter.IO.WorkingDirectory.-ctor_2.htm" />
+        <HelpTOCNode Title="WorkingDirectory Constructor (SpecialFolder, SpecialFolderOption, String[])" Url="html/M-Walter.IO.WorkingDirectory.-ctor_3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ea566577-6dcd-464e-a671-dfe9b6c9b297" Title="WorkingDirectory Methods" Url="html/Methods.T-Walter.IO.WorkingDirectory.htm">
+        <HelpTOCNode Title="GetAppDataDirectory Method " Url="html/M-Walter.IO.WorkingDirectory.GetAppDataDirectory.htm" />
+        <HelpTOCNode Title="GetDirectory Method " Url="html/M-Walter.IO.WorkingDirectory.GetDirectory.htm" />
+        <HelpTOCNode Title="SetAppDataAssCurrentDirectory Method " Url="html/M-Walter.IO.WorkingDirectory.SetAppDataAssCurrentDirectory.htm" />
+        <HelpTOCNode Title="SetApplicationRootAsCurrentDirectory Method " Url="html/M-Walter.IO.WorkingDirectory.SetApplicationRootAsCurrentDirectory.htm" />
+        <HelpTOCNode Title="SetAssCurrentDirectory Method " Url="html/M-Walter.IO.WorkingDirectory.SetAssCurrentDirectory.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8273388a-641b-4f14-9ecc-523cbedf4496" Title="WorkingDirectory Properties" Url="html/Properties.T-Walter.IO.WorkingDirectory.htm">
+        <HelpTOCNode Title="AppData Property " Url="html/P-Walter.IO.WorkingDirectory.AppData.htm" />
+        <HelpTOCNode Title="ApplicationRoot Property " Url="html/P-Walter.IO.WorkingDirectory.ApplicationRoot.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
